@@ -1,3 +1,6 @@
+Deploy Link :- https://aignite-gc9kf4dxhxrcxmmfxtp2kq.streamlit.app/
+
+
 # Judicial Court Process & Case Flow Explainer Bot
 
 ## Problem Statement
@@ -68,6 +71,7 @@ streamlit run app.py
 ```bash
 python test_system.py
 ```
+
 
 ## Usage
 1. Enter your Gemini API key when prompted
